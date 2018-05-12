@@ -1,5 +1,8 @@
 _repo: Freckles_111
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stratton-Porter, Gene
@@ -16,6 +19,8 @@ description: Freckles is a one-handed, plucky waif of an orphan, who has been ra
   in the wildlife of the swamp and in natural history, and falls in love with the
   Swamp Angel. The story's primary action involves his self-education, his loyalty
   to his empl.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/111#Freckles
 gutenberg_issued: '2006-03-08'
 gutenberg_type: Text
 identifiers:
